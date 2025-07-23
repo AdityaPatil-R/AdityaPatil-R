@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Aditya! 👋
 
-<!--
-**AdityaPatil-R/AdityaPatil-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate majoring in **Computer Science at UCLA**, with a focus on **ML** and **applied NLP**.
+Feel free to explore some of my projects on the [Repositories](https://github.com/adityaram-patil?tab=repositories) page!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 A little more about me:
+
+- 🔭 I’m currently building my personal website — stay tuned!
+- 🌱 I’m learning modeling techniques to enhance **3D lung cell structure analysis**.
+- 🧠 I’ve worked on:
+  - Training models to distinguish **LLM-generated** text from human-written text.
+  - Fine-tuning models to enhance text archives through **linguistic disambiguation**.
+- 📫 How to reach me:  
+  [Email](mailto:adityapatil@ucla.edu) | [LinkedIn](https://linkedin.com/in/aditya-ram-patil)
+- 😄 Pronouns: He/Him/His
+
+---
+
+Thanks for stopping by! 👨‍💻✨
